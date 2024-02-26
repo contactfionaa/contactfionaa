@@ -1,6 +1,5 @@
 👋 Hi, I’m @contactfionaa\
 👀 I’m interested in implementing optimal solutions for useless use-cases.\
-🌱 I’m currently learning how to get monkeys to type out book chapters.\
 💞️ I’m not currently looking to collaborate\
 📫 You can reach me through Linked-In for inquiries about my current projects
 
